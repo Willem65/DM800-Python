@@ -1357,6 +1357,8 @@ class ChannelSelection(ChannelSelectionBase, ChannelSelectionEdit, ChannelSelect
 			self.saveChannel(nref)
 			config.servicelist.lastmode.save()
 			self.addToHistory(nref)
+			
+	#**************************************************************************************************************************
 	#self.session.openWithCallback(self.close, MessageBox, _("The pin code you entered is wrong."), MessageBox.TYPE_ERROR)
 	#self.session.open(MessageBox,_(nref.toString()), MessageBox.TYPE_INFO)
 	#import os
@@ -1443,6 +1445,8 @@ class ChannelSelection(ChannelSelectionBase, ChannelSelectionEdit, ChannelSelect
 	#self.session.open(MessageBox,_("True"), MessageBox.TYPE_INFO)
 	#self.session.open(MessageBox,_(str(channelId)), MessageBox.TYPE_INFO)
 	#self.session.open(MessageBox,_(nref.toString()), MessageBox.TYPE_INFO)
+	#**********************************************************************************************************
+	
 	def newServicePlayed(self):
 		ret = self.new_service_played
 		self.new_service_played = False
