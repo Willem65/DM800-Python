@@ -1,0 +1,40 @@
+<setupxml>
+		<setup key="e2osd" title="OSD Preferences">
+			<item level="1" text="Skin picon location">config.plugins.picon.location</item>
+			<item level="1" requires="Display" text="LCD picon location">config.plugins.piconlcd.location</item>
+			<item level="1" requires="Display" text="LCD display type">config.plugins.piconlcd.lcdtype</item>
+			<item level="1" requires="Display" text="LCD standby display type">config.plugins.piconlcd.standbylcdtype</item>
+			<item level="1" text="Show CA-Display Label">config.plugins.ca.label</item>
+			<item level="1" text="CA Crypticon style">config.plugins.ca.crypticon_style</item>
+			<item level="1" text="Show ECM info">config.plugins.ca.ecminfo</item>
+			<item level="1" text="Show SatPosition">config.plugins.satpos.skin</item>
+			<item level="1" text="Show Channelnumber">config.plugins.chnumber.skin</item>
+			<item level="1" text="Show Next Event">config.plugins.nextevent.skin</item>
+			<item level="1" text="Show Camd Name">config.plugins.camdname.skin</item>
+			<item level="1" text="Radio Logo Format">config.misc.radiopic</item>
+			<item level="1" requires="Newnigma2Skin" text="Show weather on InfoBar">config.plugins.infobar.type</item>
+		</setup>
+		<setup key="e2configs" title="System Settings">
+			<item level="1" text="Auto cleanup Timer (in d)">config.plugins.timer.autodel</item>
+			<item level="1" text="Show Sleeptimer in extensionsmenu">config.plugins.sleeptimermenu.showinextensionsmenu</item>
+			<item level="1" text="check for firmware updates every">config.plugins.installer.check_update_notifier</item>
+			<item level="1" text="check for firmware updates on start">config.plugins.installer.check_update_on_boot</item>
+			<item level="0" requires="Harddisk" text="Harddisk standby after">config.usage.hdd_standby</item>
+			<item level="2" text="Keyboard Map">config.keyboard.keymap</item>
+			<item level="2" text="Use Transponder Time">config.misc.useTransponderTime</item>
+			<item level="1" text="Hide manual activated infobar automatically">config.usage.toggle_show_close_automatically</item>
+			<item level="1" requires="canCfBoot" machine="dm7025" text="Boot from CF-Card">config.usage.externboot</item>
+			<item level="1" machine="dm8000" text="LED Blinking during recording">config.usage.blink8kledonrecord</item>
+			<item level="1" machine="dm8000" text="LED snores in Standby">config.usage.blink8kledinstandby</item>
+			<item level="2" machine="dm8000" text="LED Brightness">config.usage.blue8kledbrightness</item>
+		</setup>
+		<setup key="expert" title="Expert Settings">
+			<item level="2" text="Expert picon folder">config.plugins.spezial.flashlocation</item>
+			<item level="2" text="Min. free space for installation">config.plugins.spezial.minflashsize</item>
+<!--			<item level="2" text="Picon Debug">config.plugins.picon.debug</item> -->
+			<item level="2" text="Opkg ignore USB/HDD">config.plugins.opkg.hdd</item>
+			<item level="2" text="Opkg ignore NFS">config.plugins.opkg.nfs</item>
+			<item level="2" text="Opkg ignore CIFS">config.plugins.opkg.cifs</item>
+			<item level="2" text="DVD Speed">config.plugins.dvd.speed</item>
+		</setup>
+</setupxml>

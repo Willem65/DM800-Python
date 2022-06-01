@@ -1,0 +1,13 @@
+<wizard>
+        <step id="welcome">
+                <text value="Use the up/down keys on your remote control to select an option. After that, press OK." />
+		<list type="dynamic" source="uninstallSelection" evaluation="uninstallSelectionMade" />
+                <code>
+self.clearSelectedKeys()
+self.selectKey("OK")
+self.selectKey("UP")
+self.selectKey("DOWN")
+                </code>
+	</step>
+</wizard>
+

@@ -1,0 +1,403 @@
+Ä]q(U aio-grab - 0.8+git32+baaf2b8-r2
+qUalsa-conf-base - 1.0.25-r1
+qUautofs - 4.1.4-r10
+qUavahi-daemon - 0.6.31-r3.0
+qU,base-files - 3.0.14-r71-dream8-newnigma2-05
+qUbase-passwd - 3.5.24-r0
+qUblindscan-utils - 1.9-r2.0
+qU(busybox - 1.19.4-r8-dream13-newnigma2-6
+q	U/busybox-syslog - 1.19.4-r8-dream13-newnigma2-6
+q
+U/busybox-udhcpc - 1.19.4-r8-dream13-newnigma2-6
+qU/busybox-xinetd - 1.19.4-r8-dream13-newnigma2-6
+qUca-certificates - 20130119-r0
+qUcarl9170fw - 1.9.5-r1
+qUdbttcd - 1.6-r0.0
+qUdbus-1 - 1.4.16-r3.0-dream1
+qUdistro-feed-configs - 4.0-r10
+qUdreambox-bootlogo - 1.3-r16.0
+qU#dreambox-bootlogo-data - 1.3-r16.0
+qU+dreambox-buildimage - 1.4+git16+c396f47-r3
+qUdreambox-compat - 1.0-r6
+qU3dreambox-dvb-modules - 3.2-dm800sev2-20151201-r7.0
+qU dreambox-secondstage - 89-r12.0
+qUdreamdts - 1.0-r15
+qUdropbear - 2012.55-r2-dream2
+qU$dropbear-xinetd - 2012.55-r2-dream2
+qUdvbsnoop - 0.0+cvs20081001-r1
+qU$e2fsprogs-e2fsck - 1.42.1-r1-dream0
+qU$e2fsprogs-mke2fs - 1.42.1-r1-dream0
+qUeglibc-gconv - 2.13-r20
+qU#eglibc-gconv-iso8859-15 - 2.13-r20
+qU-enigma2 - 3.999git20160616-r10.0-newnigma2-7
+q U"enigma2-defaultservices - 1.0-r14
+q!U-enigma2-hbbtv-plugin - 0.999git20150319-r1.0
+q"U9enigma2-language-ar - 3.999git20160616-r10.0-newnigma2-7
+q#U9enigma2-language-ca - 3.999git20160616-r10.0-newnigma2-7
+q$U9enigma2-language-cs - 3.999git20160616-r10.0-newnigma2-7
+q%U9enigma2-language-da - 3.999git20160616-r10.0-newnigma2-7
+q&U9enigma2-language-de - 3.999git20160616-r10.0-newnigma2-7
+q'U9enigma2-language-el - 3.999git20160616-r10.0-newnigma2-7
+q(U9enigma2-language-en - 3.999git20160616-r10.0-newnigma2-7
+q)U9enigma2-language-es - 3.999git20160616-r10.0-newnigma2-7
+q*U9enigma2-language-et - 3.999git20160616-r10.0-newnigma2-7
+q+U9enigma2-language-fa - 3.999git20160616-r10.0-newnigma2-7
+q,U9enigma2-language-fi - 3.999git20160616-r10.0-newnigma2-7
+q-U9enigma2-language-fr - 3.999git20160616-r10.0-newnigma2-7
+q.U9enigma2-language-fy - 3.999git20160616-r10.0-newnigma2-7
+q/U9enigma2-language-he - 3.999git20160616-r10.0-newnigma2-7
+q0U9enigma2-language-hr - 3.999git20160616-r10.0-newnigma2-7
+q1U9enigma2-language-hu - 3.999git20160616-r10.0-newnigma2-7
+q2U9enigma2-language-is - 3.999git20160616-r10.0-newnigma2-7
+q3U9enigma2-language-it - 3.999git20160616-r10.0-newnigma2-7
+q4U9enigma2-language-lt - 3.999git20160616-r10.0-newnigma2-7
+q5U9enigma2-language-lv - 3.999git20160616-r10.0-newnigma2-7
+q6U9enigma2-language-nl - 3.999git20160616-r10.0-newnigma2-7
+q7U9enigma2-language-no - 3.999git20160616-r10.0-newnigma2-7
+q8U9enigma2-language-pl - 3.999git20160616-r10.0-newnigma2-7
+q9U9enigma2-language-pt - 3.999git20160616-r10.0-newnigma2-7
+q:U9enigma2-language-ru - 3.999git20160616-r10.0-newnigma2-7
+q;U9enigma2-language-sk - 3.999git20160616-r10.0-newnigma2-7
+q<U9enigma2-language-sl - 3.999git20160616-r10.0-newnigma2-7
+q=U9enigma2-language-sr - 3.999git20160616-r10.0-newnigma2-7
+q>U9enigma2-language-sv - 3.999git20160616-r10.0-newnigma2-7
+q?U9enigma2-language-tr - 3.999git20160616-r10.0-newnigma2-7
+q@U9enigma2-language-uk - 3.999git20160616-r10.0-newnigma2-7
+qAU2enigma2-meta - 3.999git20160616-r10.0-newnigma2-7
+qBUAenigma2-plugin-extensions-audiosync - 2:3.999+git5286+e7e01bc-r2
+qCUGenigma2-plugin-extensions-browser - 3.999git20160616-r10.0-newnigma2-7
+qDUMenigma2-plugin-extensions-cutlisteditor - 3.999git20160616-r10.0-newnigma2-7
+qEUGenigma2-plugin-extensions-genuinedreambox - 2:3.999+git5286+e7e01bc-r2
+qFUMenigma2-plugin-extensions-graphmultiepg - 3.999git20160616-r10.0-newnigma2-7
+qGUEenigma2-plugin-extensions-hbbtv - 3.999git20160616-r10.0-newnigma2-7
+qHUKenigma2-plugin-extensions-mediaplayer - 3.999git20160616-r10.0-newnigma2-7
+qIULenigma2-plugin-extensions-mediascanner - 3.999git20160616-r10.0-newnigma2-7
+qJUMenigma2-plugin-extensions-pictureplayer - 3.999git20160616-r10.0-newnigma2-7
+qKUCenigma2-plugin-extensions-quickbutton - 2:3.999+git5286+e7e01bc-r2
+qLU@enigma2-plugin-extensions-teletext - 2:3.999+git5286+e7e01bc-r2
+qMU@enigma2-plugin-extensions-webadmin - 2:3.999+git5286+e7e01bc-r2
+qNUHenigma2-plugin-extensions-webbouqueteditor - 2:3.999+git5286+e7e01bc-r2
+qOUDenigma2-plugin-extensions-webinterface - 2:3.999+git5286+e7e01bc-r2
+qPU9enigma2-plugin-newnigma2-configsaver - 1.0git20210614-r0
+qQU7enigma2-plugin-newnigma2-ecamdctrl - 1.0git20210614-r0
+qRU>enigma2-plugin-newnigma2-epgcacheselector - 1.0git20210614-r0
+qSU7enigma2-plugin-newnigma2-installer - 1.0git20210614-r0
+qTU<enigma2-plugin-newnigma2-keymapselector - 1.0git20210614-r0
+qUU9enigma2-plugin-newnigma2-language-de - 1.0git20210614-r0
+qVU9enigma2-plugin-newnigma2-language-en - 1.0git20210614-r0
+qWU=enigma2-plugin-newnigma2-languagemanager - 1.0git20210614-r0
+qXU2enigma2-plugin-newnigma2-menu - 1.0git20210614-r0
+qYU3enigma2-plugin-newnigma2-picon - 1.0git20210614-r0
+qZU<enigma2-plugin-newnigma2-servicerestart - 1.0git20210614-r0
+q[U8enigma2-plugin-newnigma2-sleeptimer - 1.0git20210614-r0
+q\U:enigma2-plugin-newnigma2-startservice - 1.0git20210614-r0
+q]U?enigma2-plugin-newnigma2-systeminformation - 1.0git20210614-r0
+q^U3enigma2-plugin-newnigma2-tools - 1.0git20210614-r0
+q_U6enigma2-plugin-newnigma2-webradio - 1.0git20210614-r0
+q`U>enigma2-plugin-skincomponents-filebrowser - 1.0git20210614-r0
+qaUUenigma2-plugin-systemplugins-crashlogautosubmit - 3.999git20160616-r10.0-newnigma2-7
+qbUXenigma2-plugin-systemplugins-frontprocessorupgrade - 3.999git20160616-r10.0-newnigma2-7
+qcUJenigma2-plugin-systemplugins-hdmicec - 3.999git20160616-r10.0-newnigma2-7
+qdUJenigma2-plugin-systemplugins-hotplug - 3.999git20160616-r10.0-newnigma2-7
+qeUPenigma2-plugin-systemplugins-minidlnasetup - 3.999git20160616-r10.0-newnigma2-7
+qfUIenigma2-plugin-systemplugins-networkbrowser - 2:3.999+git5286+e7e01bc-r2
+qgUOenigma2-plugin-systemplugins-networksetup - 3.999git20160616-r10.0-newnigma2-7
+qhUPenigma2-plugin-systemplugins-networkwizard - 3.999git20160616-r10.0-newnigma2-7
+qiURenigma2-plugin-systemplugins-positionersetup - 3.999git20160616-r10.0-newnigma2-7
+qjULenigma2-plugin-systemplugins-satfinder - 3.999git20160616-r10.0-newnigma2-7
+qkUOenigma2-plugin-systemplugins-skinselector - 3.999git20160616-r10.0-newnigma2-7
+qlUQenigma2-plugin-systemplugins-tempfancontrol - 3.999git20160616-r10.0-newnigma2-7
+qmUBenigma2-plugin-systemplugins-toolkit - 2:3.999+git5286+e7e01bc-r2
+qnULenigma2-plugin-systemplugins-videomode - 3.999git20160616-r10.0-newnigma2-7
+qoULenigma2-plugin-systemplugins-videotune - 3.999git20160616-r10.0-newnigma2-7
+qpUNenigma2-plugin-systemplugins-wirelesslan - 3.999git20160616-r10.0-newnigma2-7
+qqU2enigma2-plugins-meta - 2:3.999+git5286+e7e01bc-r2
+qrU.enigma2-skin-newnigma2-hd - 1.0git20210614-r1
+qsU/enigma2-skins-meta - 2:3.999+git439+92db49a-r0
+qtU-enigma2-streamproxy - 3.999+git15+37a3f19-r4
+quU4enigma2-streamproxy-xinetd - 3.999+git15+37a3f19-r4
+qvUethtool - 2.6.36-r0
+qwUfakelocale - 1.0-r4
+qxUfile - 5.11-r0
+qyU#glib-networking - 2.28.7-r2-dream0
+qzU2gst-plugin-dvbmediasink - 0.10+git139+7671ff6-r18
+q{U0gst-plugins-bad - 0.10.23.1+git12254+cef47d8-r5
+q|U4gst-plugins-bad-mms - 0.10.23.1+git12254+cef47d8-r5
+q}U:gst-plugins-bad-mpegdemux - 0.10.23.1+git12254+cef47d8-r5
+q~U1gst-plugins-base - 0.10.36.1+git10186+bdb3316-r4
+qU6gst-plugins-base-alsa - 0.10.36.1+git10186+bdb3316-r4
+qÄU5gst-plugins-base-app - 0.10.36.1+git10186+bdb3316-r4
+qÅU>gst-plugins-base-audioconvert - 0.10.36.1+git10186+bdb3316-r4
+qÇU?gst-plugins-base-audioresample - 0.10.36.1+git10186+bdb3316-r4
+qÉU;gst-plugins-base-decodebin - 0.10.36.1+git10186+bdb3316-r4
+qÑU<gst-plugins-base-decodebin2 - 0.10.36.1+git10186+bdb3316-r4
+qÖU5gst-plugins-base-ogg - 0.10.36.1+git10186+bdb3316-r4
+qÜU9gst-plugins-base-playbin - 0.10.36.1+git10186+bdb3316-r4
+qáU:gst-plugins-base-subparse - 0.10.36.1+git10186+bdb3316-r4
+qàUCgst-plugins-base-typefindfunctions - 0.10.36.1+git10186+bdb3316-r4
+qâU8gst-plugins-base-vorbis - 0.10.36.1+git10186+bdb3316-r4
+qäU1gst-plugins-good - 0.10.31.1+git10789+7768342-r4
+qãU8gst-plugins-good-apetag - 0.10.31.1+git10789+7768342-r4
+qåU>gst-plugins-good-audioparsers - 0.10.31.1+git10789+7768342-r4
+qçU<gst-plugins-good-autodetect - 0.10.31.1+git10789+7768342-r4
+qéU5gst-plugins-good-avi - 0.10.31.1+git10789+7768342-r4
+qèU6gst-plugins-good-flac - 0.10.31.1+git10789+7768342-r4
+qêU5gst-plugins-good-flv - 0.10.31.1+git10789+7768342-r4
+qëU:gst-plugins-good-icydemux - 0.10.31.1+git10789+7768342-r4
+qíU:gst-plugins-good-id3demux - 0.10.31.1+git10789+7768342-r4
+qìU8gst-plugins-good-isomp4 - 0.10.31.1+git10789+7768342-r4
+qîU:gst-plugins-good-matroska - 0.10.31.1+git10789+7768342-r4
+qïU5gst-plugins-good-rtp - 0.10.31.1+git10789+7768342-r4
+qñU<gst-plugins-good-rtpmanager - 0.10.31.1+git10789+7768342-r4
+qóU6gst-plugins-good-rtsp - 0.10.31.1+git10789+7768342-r4
+qòU=gst-plugins-good-souphttpsrc - 0.10.31.1+git10789+7768342-r4
+qôU5gst-plugins-good-udp - 0.10.31.1+git10789+7768342-r4
+qöU:gst-plugins-good-wavparse - 0.10.31.1+git10789+7768342-r4
+qõU0gst-plugins-ugly - 0.10.19.1+git4638+9afc696-r3
+qúU4gst-plugins-ugly-asf - 0.10.19.1+git4638+9afc696-r3
+qùU7gst-plugins-ugly-dvdsub - 0.10.19.1+git4638+9afc696-r3
+qûU4gst-plugins-ugly-mad - 0.10.19.1+git4638+9afc696-r3
+qüU?gst-plugins-ugly-mpegaudioparse - 0.10.19.1+git4638+9afc696-r3
+q†U;gst-plugins-ugly-mpegstream - 0.10.19.1+git4638+9afc696-r3
+q°U*gstreamer - 0.10.36.1+git12092+1bcabb9-r5
+q¢Uhdparm - 9.39-r1
+q£U+initscripts - 1.0-r134-dream6-newnigma2-05
+q§U*kernel-base - 3.2-r12.54-bsp0-newnigma2-2
+q•U+kernel-image - 3.2-r12.54-bsp0-newnigma2-2
+q¶U8kernel-module-aes-generic - 3.2-r12.54-bsp0-newnigma2-2
+qßU1kernel-module-arc4 - 3.2-r12.54-bsp0-newnigma2-2
+q®U0kernel-module-ath - 3.2-r12.54-bsp0-newnigma2-2
+q©U4kernel-module-autofs4 - 3.2-r12.54-bsp0-newnigma2-2
+q™U5kernel-module-carl9170 - 3.2-r12.54-bsp0-newnigma2-2
+q´U2kernel-module-cdrom - 3.2-r12.54-bsp0-newnigma2-2
+q¨U5kernel-module-cfg80211 - 3.2-r12.54-bsp0-newnigma2-2
+q≠U1kernel-module-cifs - 3.2-r12.54-bsp0-newnigma2-2
+qÆU6kernel-module-crc-ccitt - 3.2-r12.54-bsp0-newnigma2-2
+qØU6kernel-module-crc-itu-t - 3.2-r12.54-bsp0-newnigma2-2
+q∞U0kernel-module-ecb - 3.2-r12.54-bsp0-newnigma2-2
+q±U5kernel-module-ftdi-sio - 3.2-r12.54-bsp0-newnigma2-2
+q≤U1kernel-module-fuse - 3.2-r12.54-bsp0-newnigma2-2
+q≥U0kernel-module-hid - 3.2-r12.54-bsp0-newnigma2-2
+q¥U1kernel-module-hmac - 3.2-r12.54-bsp0-newnigma2-2
+qµU5kernel-module-mac80211 - 3.2-r12.54-bsp0-newnigma2-2
+q∂U0kernel-module-md4 - 3.2-r12.54-bsp0-newnigma2-2
+q∑U6kernel-module-nls-cp850 - 3.2-r12.54-bsp0-newnigma2-2
+q∏U;kernel-module-nls-iso8859-15 - 3.2-r12.54-bsp0-newnigma2-2
+qπU3kernel-module-pl2303 - 3.2-r12.54-bsp0-newnigma2-2
+q∫U3kernel-module-r8712u - 3.2-r12.54-bsp0-newnigma2-2
+qªU6kernel-module-rt2800lib - 3.2-r12.54-bsp0-newnigma2-2
+qºU6kernel-module-rt2800usb - 3.2-r12.54-bsp0-newnigma2-2
+qΩU6kernel-module-rt2x00lib - 3.2-r12.54-bsp0-newnigma2-2
+qæU6kernel-module-rt2x00usb - 3.2-r12.54-bsp0-newnigma2-2
+qøU4kernel-module-rt73usb - 3.2-r12.54-bsp0-newnigma2-2
+q¿U;kernel-module-snd-page-alloc - 3.2-r12.54-bsp0-newnigma2-2
+q¡U4kernel-module-snd-pcm - 3.2-r12.54-bsp0-newnigma2-2
+q¬U6kernel-module-snd-timer - 3.2-r12.54-bsp0-newnigma2-2
+q√U3kernel-module-sr-mod - 3.2-r12.54-bsp0-newnigma2-2
+qƒU4kernel-module-stv0299 - 3.2-r12.54-bsp0-newnigma2-2
+q≈U3kernel-module-usbhid - 3.2-r12.54-bsp0-newnigma2-2
+q∆U6kernel-module-usbserial - 3.2-r12.54-bsp0-newnigma2-2
+q«U5kernel-module-zd1211rw - 3.2-r12.54-bsp0-newnigma2-2
+q»Ukillall - 22.16-r1
+q…Ulibaio1 - 0.3.109-r1-dream0
+q Ulibasound2 - 1.0.25-r1
+qÀUlibavahi-common3 - 0.6.31-r3.0
+qÃUlibavahi-core7 - 0.6.31-r3.0
+qÕU!libavcodec53 - 0.7.4-r4.0-dream2
+qŒU"libavformat53 - 0.7.4-r4.0-dream2
+qœU libavutil51 - 0.7.4-r4.0-dream2
+q–Ulibblkid1 - 2.21-r5
+q—UDlibbluray3 - 0.2.2+git1+89e68a40ddc4a11d4538da2281ef1ac4260a8d6b-r0
+q“U$libboost-system1.49.0 - 1.49.0-r3.0
+q”U$libboost-thread1.49.0 - 1.49.0-r3.0
+q‘Ulibbz2-0 - 1.0.6-r5
+q’Ulibc6 - 2.13-r26+svnr15508
+q÷Ulibcap2 - 2.22-r3
+q◊Ulibcom-err2 - 1.42.1-r1-dream0
+qÿUlibcrypto0.9.8 - 0.9.8za-r15.0
+qŸUlibcurl4 - 7.24.0-r0
+q⁄Ulibdaemon0 - 0.14-r0
+q€U!libdbus-1-3 - 1.4.16-r3.0-dream1
+q‹Ulibdca0 - 0.0.5-5-r1-opt1
+q›U"libdlsym0 - 0.0.1+git5+235cb09-r0
+qﬁU&libdvbsi++1 - 0.3.7+git117+f3c5e6c-r0
+qﬂUlibe2p2 - 1.42.1-r1-dream0
+q‡Ulibexif12 - 0.6.20-r0
+q·Ulibexpat1 - 2.0.1-r1
+q‚Ulibext2fs2 - 1.42.1-r1-dream0
+q„Ulibffi5 - 3.0.10-r0
+q‰Ulibflac8 - 1.2.1-r2-opt1
+qÂUlibfreetype6 - 2.4.8-r0
+qÊUlibfribidi0 - 0.19.2-r1
+qÁUlibfuse2 - 2.8.6-r1
+qËUlibgcc1 - 4.6.3+svnr184847-r29
+qÈUlibgcrypt11 - 1.5.0-r0-opt1
+qÍUlibgif4 - 4.1.6-r3
+qÎUlibglib-2.0-0 - 1:2.30.3-r1
+qÏUlibgnutls26 - 2.12.17-r6.0
+qÌUlibgpg-error0 - 1.10-r1
+qÓU1libgstapp-0.10-0 - 0.10.36.1+git10186+bdb3316-r4
+qÔU3libgstaudio-0.10-0 - 0.10.36.1+git10186+bdb3316-r4
+qU8libgstinterfaces-0.10-0 - 0.10.36.1+git10186+bdb3316-r4
+qÒU7libgstnetbuffer-0.10-0 - 0.10.36.1+git10186+bdb3316-r4
+qÚU5libgstpbutils-0.10-0 - 0.10.36.1+git10186+bdb3316-r4
+qÛU2libgstriff-0.10-0 - 0.10.36.1+git10186+bdb3316-r4
+qÙU1libgstrtp-0.10-0 - 0.10.36.1+git10186+bdb3316-r4
+qıU2libgstrtsp-0.10-0 - 0.10.36.1+git10186+bdb3316-r4
+qˆU1libgstsdp-0.10-0 - 0.10.36.1+git10186+bdb3316-r4
+q˜U1libgsttag-0.10-0 - 0.10.36.1+git10186+bdb3316-r4
+q¯U3libgstvideo-0.10-0 - 0.10.36.1+git10186+bdb3316-r4
+q˘Ulibid3tag0 - 0.15.1b-r6
+q˙Ulibjpeg8 - 8c-r3-opt1
+q˚Ulibkmod2 - 7-r3
+q¸Uliblzma5 - 5.0.3-r1
+q˝Ulibmad0 - 0.15.1b-r0-opt1
+q˛Ulibmms0 - 0.6.2-r0
+qˇUlibncurses5 - 5.9-r8.1
+r   Ulibncursesw5 - 5.9-r8.1
+r  Ulibnl-3-200 - 3.2.3-r0
+r  Ulibnl-genl-3-200 - 3.2.3-r0
+r  Ulibntfs-3g81 - 2011.4.12-r0
+r  Ulibogg0 - 1.3.0-r0-opt1
+r  Uliborc-0.4-0 - 0.4.14-r0.0
+r  U liborc-test-0.4-0 - 0.4.14-r0.0
+r  U&libpagecache - 0.0.3+git14+b4ce1a7-r0
+r  Ulibpassthrough - 0.2-r0
+r	  Ulibpng12-0 - 1.2.49-r0-opt1
+r
+  Ulibproxy - 0.4.7-r4
+r  U2libpython2.7-1.0 - 2.7.2-r2.17-dream2-newnigma2_1
+r  U!libqtcoree4 - 4.8.1-r44.0-dream8
+r  U libqtguie4 - 4.8.1-r44.0-dream8
+r  U$libqtnetworke4 - 4.8.1-r44.0-dream8
+r  U libqtsvge4 - 4.8.1-r44.0-dream8
+r  U#libqtwebkite4 - 4.8.1-r44.0-dream8
+r  Ulibreadline6 - 6.2-r2
+r  Ulibsigc-2.0-0 - 2.2.9-r0
+r  Ulibsoup-2.4-1 - 2.36.1-r2
+r  Ulibsqlite3-0 - 3.7.13-r0
+r  Ulibssl0.9.8 - 0.9.8za-r15.0
+r  U"libstdc++6 - 4.6.3+svnr184847-r29
+r  Ulibtasn1-3 - 2.11-r0
+r  Ulibtheora - 1.1.1-r1
+r  Ulibtiff5 - 4.0.1-r1
+r  Ulibtinfo5 - 5.9-r8.1
+r  Ulibtirpc1 - 0.2.2-r0
+r  Ulibuuid1 - 2.21-r5
+r  U"libvorbis - 1.3.3-r0-pdream0-opt1
+r  U&libvorbisenc2 - 1.3.3-r0-pdream0-opt1
+r  Ulibxml2 - 2.7.8-r7
+r   Ulibxmlccwrap - 0.0.12-r1
+r!  Ulibz1 - 1.2.6-r1-opt1
+r"  Ulibzvbi0 - 0.2.35-r2
+r#  UWlinux-firmware-rt2800usb - 0.0+git1+15888a2eab052ac3d3f49334e4f6f05f347a516e-r1-dream2
+r$  UUlinux-firmware-rt73usb - 0.0+git1+15888a2eab052ac3d3f49334e4f6f05f347a516e-r1-dream2
+r%  UWlinux-firmware-rtl8192su - 0.0+git1+15888a2eab052ac3d3f49334e4f6f05f347a516e-r1-dream2
+r&  Umc - 4.8.1-r3-dream3
+r'  U!minidlna - 1.1.99+cvs20130204-r0
+r(  U#module-init-tools-depmod - 3.16-r0
+r)  Umodutils-initscripts - 1.0-r6
+r*  Umtd-utils - 1.4.9-r1-dream4
+r+  U&mtd-utils-mtd-debug - 1.4.9-r1-dream4
+r,  U&mtd-utils-nandwrite - 1.4.9-r1-dream4
+r-  U!ncurses-terminfo-base - 5.9-r8.1
+r.  Unetbase - 4.47-r2-dream1
+r/  U%newnigma2-camd-cccam-config - 1.0-r2
+r0  U#newnigma2-camd-cccam2.3.0 - 1.0-r3
+r1  Unewnigma2-default-emu - 1.0-r1
+r2  U'newnigma2-defaults - 1.0git20210614-r0
+r3  U$newnigma2-image-info - 20210614-r10
+r4  U&newnigma2-plugins - 1.0git20210614-r0
+r5  Unewnigma2-smargo - 1.0-r1
+r6  U+newnigma2-spinner-newnigma2-gears - 0.0-r0
+r7  Untfs-3g - 2011.4.12-r0
+r8  Uopenresolv - 3.5.2-r0
+r9  Uopenssl - 0.9.8za-r15.0
+r:  U0opkg - 1:0.1.8+svnr633-r9.0-dream7-newnigma2-10
+r;  U opkg-collateral - 1.0-r1-dream2
+r<  Uopkg-config-base - 1.0-r1
+r=  Uparted - 3.1-r0-dream1
+r>  Uprocps - 3.2.8-r7
+r?  U.python-audio - 2.7.2-r2.17-dream2-newnigma2_1
+r@  U/python-codecs - 2.7.2-r2.17-dream2-newnigma2_1
+rA  U4python-compression - 2.7.2-r2.17-dream2-newnigma2_1
+rB  U-python-core - 2.7.2-r2.17-dream2-newnigma2_1
+rC  U.python-crypt - 2.7.2-r2.17-dream2-newnigma2_1
+rD  U/python-ctypes - 2.7.2-r2.17-dream2-newnigma2_1
+rE  U1python-datetime - 2.7.2-r2.17-dream2-newnigma2_1
+rF  U4python-elementtree - 2.7.2-r2.17-dream2-newnigma2_1
+rG  U.python-email - 2.7.2-r2.17-dream2-newnigma2_1
+rH  U.python-fcntl - 2.7.2-r2.17-dream2-newnigma2_1
+rI  U-python-html - 2.7.2-r2.17-dream2-newnigma2_1
+rJ  U.python-image - 2.7.2-r2.17-dream2-newnigma2_1
+rK  U+python-io - 2.7.2-r2.17-dream2-newnigma2_1
+rL  U-python-lang - 2.7.2-r2.17-dream2-newnigma2_1
+rM  U0python-logging - 2.7.2-r2.17-dream2-newnigma2_1
+rN  U-python-math - 2.7.2-r2.17-dream2-newnigma2_1
+rO  U-python-mime - 2.7.2-r2.17-dream2-newnigma2_1
+rP  U-python-misc - 2.7.2-r2.17-dream2-newnigma2_1
+rQ  U2python-netclient - 2.7.2-r2.17-dream2-newnigma2_1
+rR  U2python-netserver - 2.7.2-r2.17-dream2-newnigma2_1
+rS  U/python-pickle - 2.7.2-r2.17-dream2-newnigma2_1
+rT  Upython-pyopenssl - 0.13-r1
+rU  U+python-re - 2.7.2-r2.17-dream2-newnigma2_1
+rV  U1python-readline - 2.7.2-r2.17-dream2-newnigma2_1
+rW  U.python-shell - 2.7.2-r2.17-dream2-newnigma2_1
+rX  U0python-sqlite3 - 2.7.2-r2.17-dream2-newnigma2_1
+rY  U2python-stringold - 2.7.2-r2.17-dream2-newnigma2_1
+rZ  U2python-threading - 2.7.2-r2.17-dream2-newnigma2_1
+r[  U python-twisted-core - 12.0.0-r2
+r\  U python-twisted-mail - 12.0.0-r2
+r]  U!python-twisted-names - 12.0.0-r2
+r^  U%python-twisted-protocols - 12.0.0-r2
+r_  Upython-twisted-web - 12.0.0-r2
+r`  Upython-wifi - 0.5.0-r2
+ra  U,python-xml - 2.7.2-r2.17-dream2-newnigma2_1
+rb  U-python-zlib - 2.7.2-r2.17-dream2-newnigma2_1
+rc  U python-zopeinterface - 3.5.1-r1
+rd  U"qnullscreen - 1.0+git1+fc1253b-r0
+re  U9qt4-embedded-plugin-imageformat-gif - 4.8.1-r44.0-dream8
+rf  U9qt4-embedded-plugin-imageformat-ico - 4.8.1-r44.0-dream8
+rg  U:qt4-embedded-plugin-imageformat-jpeg - 4.8.1-r44.0-dream8
+rh  U9qt4-embedded-plugin-imageformat-svg - 4.8.1-r44.0-dream8
+ri  U:qt4-embedded-plugin-imageformat-tiff - 4.8.1-r44.0-dream8
+rj  U r8192c - 3.4.4-4749.20121105-r5
+rk  Urpcbind - 0.2.0-r2
+rl  Usdparm - 1.07-r1
+rm  Ushadow - 4.1.4.3-r9
+rn  U%shadow-securetty - 4.1.4.3-r1-dream2
+ro  U!showiframe - 1.8+git5+f19e4b5-r1
+rp  Usmartmontools - 5.42-r1.0
+rq  Ustrace - 4.6-r1
+rr  Ustreamripper - 1.64.6-r1
+rs  Usysvinit - 2.88dsf-r6-dream4
+rt  U%sysvinit-inittab - 2.88dsf-r6-dream3
+ru  U#sysvinit-pidof - 2.88dsf-r6-dream4
+rv  Utask-core-boot - 1.0-r9.1
+rw  U!task-opendreambox-base - 1.0-r20
+rx  U#task-opendreambox-dvbapi3 - 1.0-r4
+ry  U&task-opendreambox-enigma2 - 1.0-r34.0
+rz  U1task-opendreambox-essential - 1.0-r5-newnigma2-2
+r{  U!task-opendreambox-wlan - 1.0-r15
+r|  Utpmd - 1.0-r5
+r}  U!tuxbox-common - 0.2-r0-newnigma2
+r~  Utzdata - 2012b-r0-dream1
+r  Uubuntu-font-family - 0.80-r1
+rÄ  Uudev - 182-r2-dream2
+rÅ  Uudev-utils - 182-r2-dream2
+rÇ  UFupdate-alternatives-cworth - 1:0.1.8+svnr633-r9.0-dream7-newnigma2-10
+rÉ  Uupdate-modules - 1.1-r1
+rÑ  Uupdate-rc.d - 0.7-r4
+rÖ  Uutil-linux-blkid - 2.21-r5
+rÜ  Uutil-linux-sfdisk - 2.21-r5
+rá  Uvsftpd - 2.3.5-r3-newnigma2
+rà  U#vsftpd-xinetd - 2.3.5-r3-newnigma2
+râ  Uwdog - 1.0-r3
+rä  Uwireless-tools - 1:29-r4
+rã  U"wpa-supplicant - 0.7.3-r11-dream2
+rå  U&wpa-supplicant-cli - 0.7.3-r11-dream2
+rç  Uxfsprogs-mkfs - 3.1.7-r1
+ré  Uxinetd - 2.3.15-r0
+rè  Uzd1211-firmware - 1.4-r1
+rê  Uzeroconf - 0.9-r1-dream1
+rë  e.
