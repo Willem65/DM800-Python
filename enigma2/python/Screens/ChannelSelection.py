@@ -1370,74 +1370,121 @@ class ChannelSelection(ChannelSelectionBase, ChannelSelectionEdit, ChannelSelect
 		#channelId = open('/etc/CCcamCfg1.txt', 'r').read()
 		#import filecmp
 		#from Screens.Console import Console
+		# import logging	
+		# logging.warning('Watch out!')
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		import os
+		import filecmp
+
+		channelId = open("/etc/CCcamCfg1.txt", "r")   # Channel Service reference
+		readline = channelId.read()
+		
+		if nref.toString() in str(readline):   # Huidige service gelijk aan de service in de lijst
+			
+			if filecmp.cmp('/etc/CCcamCfg1.1a', '/etc/CCcam.cfg', shallow=False) == False:
+			
+				os.system("camdctrl stop")
+				os.system('cp /etc/CCcamCfg1.1a /etc/CCcam.cfg')
+				os.system("camdctrl start")	
+				
+		else:
+		
+			if filecmp.cmp('/etc/CCcamCfg1.1b', '/etc/CCcam.cfg', shallow=False) == False:
+			
+				os.system("camdctrl stop")
+				os.system('cp /etc/CCcamCfg1.1b /etc/CCcam.cfg')
+				os.system("camdctrl start")	
+				
+		channelId.close()
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		#channelId = open('/etc/CCcamCfg1.txt', 'r').read()
+		#import filecmp
+		#from Screens.Console import Console
 		# import logging
 		
 		# logging.warning('Watch out!')
 		
-		import os
+		# import os
 		
-		channelId = open("/etc/CCcamCfg1.txt", "r")   # Channel Service reference
+		# channelId = open("/etc/CCcamCfg1.txt", "r")   # Channel Service reference
 		
-		readfile = channelId.read()
+		# readfile = channelId.read()
 		
-		#print "willem"
+		# #print "willem"
 		
-		if nref.toString() in str(readfile):   # Huidige service gelijk aan de service in de lijst
+		# if nref.toString() in str(readfile):   # Huidige service gelijk aan de service in de lijst
 		
-			difference=False
+			# difference=False
 			
-			firstfile = open("/etc/CCcamCfg1.1a","r")
-			secondfile = open("/etc/CCcam.cfg","r")
+			# firstfile = open("/etc/CCcamCfg1.1a","r")
+			# secondfile = open("/etc/CCcam.cfg","r")
 				
-			if str(firstfile.readline()) != str(secondfile.readline()):
-				difference=True
+			# if str(firstfile.readline()) != str(secondfile.readline()):
+				# difference=True
 			
-			secondfile.close()
-			firstfile.close()
+			# secondfile.close()
+			# firstfile.close()
 				
-			if difference == True:
-				#print ("willem ")
-				os.system("camdctrl stop")
-				firstfile = open("/etc/CCcamCfg1.1a","r")
-				secondfile = open("/etc/CCcam.cfg","w")     # CCcamCfg1.1a naar ---> CCcam.cfg voor filmnet	
-				
-				
-				for line in firstfile:
-					secondfile.write(line)
+			# if difference == True:
+				# #print ("willem ")
+				# os.system("camdctrl stop")
+				# firstfile = open("/etc/CCcamCfg1.1a","r")
+				# secondfile = open("/etc/CCcam.cfg","w")     # CCcamCfg1.1a naar ---> CCcam.cfg voor filmnet	
 				
 				
-				secondfile.close()
-				firstfile.close()
-				os.system("camdctrl start")
+				# for line in firstfile:
+					# secondfile.write(line)
 				
-		else:
-			difference=False
+				
+				# secondfile.close()
+				# firstfile.close()
+				# os.system("camdctrl start")
+				
+		# else:
+			# difference=False
 			
-			firstfile = open("/etc/CCcamCfg1.1b","r")
-			secondfile = open("/etc/CCcam.cfg","r")
+			# firstfile = open("/etc/CCcamCfg1.1b","r")
+			# secondfile = open("/etc/CCcam.cfg","r")
 				
-			if str(firstfile.readline()) != str(secondfile.readline()):
-				difference=True
+			# if str(firstfile.readline()) != str(secondfile.readline()):
+				# difference=True
 			
-			secondfile.close()
-			firstfile.close()
+			# secondfile.close()
+			# firstfile.close()
 				
-			if difference == True:		
-				#print "willem2"
-				os.system("camdctrl stop")
-				firstfile = open("/etc/CCcamCfg1.1b","r")
-				secondfile = open("/etc/CCcam.cfg","w")     # CCcamCfg1.1b naar ---> CCcam.cfg
+			# if difference == True:		
+				# #print "willem2"
+				# os.system("camdctrl stop")
+				# firstfile = open("/etc/CCcamCfg1.1b","r")
+				# secondfile = open("/etc/CCcam.cfg","w")     # CCcamCfg1.1b naar ---> CCcam.cfg
 				
-				for line in firstfile:
-					secondfile.write(line)
+				# for line in firstfile:
+					# secondfile.write(line)
 					
-				secondfile.close()
-				firstfile.close()
-				os.system("camdctrl start")
+				# secondfile.close()
+				# firstfile.close()
+				# os.system("camdctrl start")
 			
 			
 			
-		channelId.close()
+		# channelId.close()
 
 			
 			
